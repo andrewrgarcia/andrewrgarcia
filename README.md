@@ -8,7 +8,7 @@ I also have experience working carefully with a wide variety of chemicals and on
 
 - 🔭 I’m currently working on my Ph.D. dissertation
 - 💬 Ask me about crystal growth, lattices, three-dimensional stuff, multi-dimensional arrays ('tensors'), anisotropy, entropy, artificial intelligence
-- 📫 How to reach me: email (on my website)
+- 📫 How to reach me: email ([on my website](https://thisisandrewgarcia.com/#contact))
 
 
 <!--
