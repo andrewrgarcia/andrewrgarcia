@@ -7,8 +7,8 @@ My work focuses on investigating the crystallization of metallic & molecular cry
 I also have experience working carefully with a wide variety of chemicals, doing flame sealing of glassware for lab experiments, setting up separation processes at the lab scale, and running experiments which require a constant influx of heat, both as batch and semi-batch processes. 
 
 - 🔭 I’m currently working on my Ph.D. dissertation
-- 💬 Ask me about crystal growth, MOFs, three-dimensional stuff, multi-dimensional arrays ('tensors'), machine- and deep-learning, anisotropy, entropy
-- 📫 How to reach me: my website
+- 💬 Ask me about crystal growth, MOFs, three-dimensional stuff, multi-dimensional arrays ('tensors'), machine- and deep-learning, anisotropy, entropy, lattices
+- 📫 How to reach me: email (on my website)
 
 
 <!--
