@@ -7,7 +7,7 @@ My work focuses on investigating the crystallization of metallic & molecular cry
 I also have experience working carefully with a wide variety of chemicals and on different lab environments and processes.
 
 - 🔭 I’m currently working on my Ph.D. dissertation
-- 💬 Ask me about crystal growth, chemistry, anisotropy, entropy, three-dimensional stuff, tensors ('multi-dimensional arrays'),  artificial intelligence, high performance computing, cloud computing. 
+- 💬 Ask me about crystal growth, anisotropy, entropy, three-dimensional stuff, multi-dimensional arrays,  multiprocessing, artificial intelligence, cloud computing. 
 - 📫 How to reach me: email ([on my website](https://thisisandrewgarcia.com/#contact))
 
 
