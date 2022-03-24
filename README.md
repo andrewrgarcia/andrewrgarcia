@@ -8,7 +8,7 @@ I also have experience working carefully with a wide variety of chemicals and on
 
 - 🔭 I’m currently working on my Ph.D. dissertation
 - 💬 Ask me about crystal growth, anisotropy, entropy, multi-dimensional arrays, multiprocessing, artificial intelligence, cloud computing. 
-- ⚡ Fun fact: My computer is 6 years old :computer: 
+- ⚡ Fun fact: My computer is 6 years old 👨‍💻 👶
 - 📫 How to reach me: email ([on my website](https://thisisandrewgarcia.com/#contact))
 
 
