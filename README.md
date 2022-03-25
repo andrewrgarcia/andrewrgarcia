@@ -2,7 +2,9 @@
 
 I am currently a Ph.D. candidate in [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
 
-My work focuses on investigating the crystallization of metallic & molecular crystals. I have been modeling crystal growth as well as extending the body of knowledge on topics such as the exploration of favorable growth conditions and the determination of three-dimensional morphology and defect formation.
+I am investigating the crystallization of metallic & molecular crystals. 
+
+I have been modeling crystal growth as well as extending the body of knowledge on topics such as the exploration of favorable growth conditions and the determination of three-dimensional morphology and defect formation.
 
 I also have experience working carefully with a wide variety of chemicals and on different lab environments and processes.
 
