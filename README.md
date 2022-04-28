@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Ph.D. candidate in [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
+I am a recent Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
 
 I am investigating the crystallization of metallic & molecular crystals. 
 
