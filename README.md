@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a recent Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
+I am a Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
 
 I am investigating the crystallization of metallic & molecular crystals. 
 
-- 🔭 I’m currently working on my Ph.D. dissertation (DONE)
 - 💬 Ask me about crystal growth, chemistry, anisotropy, entropy, artificial intelligence, and cloud computing. 
 - 📫 How to reach me: email ([on my website](https://andrewatcloud.com/#contact))
 
