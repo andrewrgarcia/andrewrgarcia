@@ -5,7 +5,7 @@ I am a Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/)
 I am investigating the crystallization of metallic & molecular crystals. 
 
 - 💬 Ask me about crystal growth, chemistry, anisotropy, entropy, artificial intelligence, and cloud computing. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/andrewrygarcia)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrewrygarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
 <!--
 **andrewrgarcia/andrewrgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
