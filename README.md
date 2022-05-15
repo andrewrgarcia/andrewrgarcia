@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<sub>Github profile image: <a href="http://torus3d.herokuapp.com/">torus knot</a> 🪢  </sub>
+<sub>Github profile image: <a href="https://torus3d.herokuapp.com/">torus knot</a> 🪢  </sub>
