@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<sub><a href="https://torus3d.herokuapp.com/">Github profile image is a torus knot</a>🍩🪢</sub>
+<sub><a href="https://torus3d.herokuapp.com/">Github profile image is a torus knot</a> 🍩🪢</sub>
