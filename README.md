@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I am a Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering** . 
-
+I am a Ph.D. alumnus from [Dr. Kirk Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering**. 
 I am investigating the crystallization of metallic & molecular crystals. 
 
 - 💬 Ask me about crystal growth, chemistry, anisotropy, entropy, artificial intelligence, and cloud computing. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrewrygarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
-[torus knot](http://torus3d.herokuapp.com/) 🪢 
 <!--
 **andrewrgarcia/andrewrgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<sub><sup>Profile image: <a href="http://torus3d.herokuapp.com/">torus knot</a> 🪢  </sup></sub>
