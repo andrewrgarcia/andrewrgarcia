@@ -9,7 +9,7 @@ I have been implementing higher-order tensors to model crystal structures and cr
 
 
 ```
-![](https://raw.githubusercontent.com/andrewrgarcia/andrewrgarcia/main/about.png =200x)
+![](https://raw.githubusercontent.com/andrewrgarcia/andrewrgarcia/main/about.png)
 
 ```
 
