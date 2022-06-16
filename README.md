@@ -9,7 +9,7 @@ I have been implementing higher-order tensors to model crystal structures and cr
 
 
 ```
-![](./about.png =200x)
+![](about.png =200x)
 ```
 
 <a href="https://www.digitalocean.com/?refcode=b86f53f9a50f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
