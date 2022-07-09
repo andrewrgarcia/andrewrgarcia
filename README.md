@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. alumnus from [Dr. Ziegler's lab](https://ziegler.che.ufl.edu/) at the **University of Florida Department of Chemical Engineering**. 
-I have been implementing higher-order tensors to model crystal structures and crystallization thereof through stochastic simulations. I have also used artificial intelligence to obtain meaningful information from these tensor representations, as well as used my knowledge on such to expand the field on structure-function relations. 
+I am a scientist with academic research experience and a strong computer background. I have an expertise in Monte Carlo simulations, experience in modeling 3-D solids, and application of machine learning &/ computer vision to problems of this kind. 
 
 - 💬 Ask me about crystal growth, entropy, artificial intelligence, and cloud computing. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrewrygarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
