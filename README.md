@@ -1,8 +1,11 @@
+<!--
 ### Hi there 👋
 
 I am a scientist with academic research experience and a strong computer background. I have an expertise in Monte Carlo simulations, experience in modeling 3-D solids, and application of machine learning &/ computer vision to problems of this kind. 
 
 - 💬 Ask me about crystal growth, entropy, artificial intelligence, and cloud computing. 
+-->
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrewrygarcia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
 
