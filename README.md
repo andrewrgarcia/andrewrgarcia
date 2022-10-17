@@ -1,5 +1,17 @@
 
 ### Hi there 👋
+
+My name's Andrew. I have a Ph.D. in Chemical Engineering from the University of Florida. My area of expertise lies in discrete stochastic simulations, mathematical representations of crystalline structures, and applications thereof to mathematical manipulation and machine learning algorithms. Lately, I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
+
+- 💬 Ask me about crystals, entropy, artificial intelligence, cloud computing, and [voxelmap](https://github.com/andrewrgarcia/voxelmap).
+
+- 🌱 I’m currently learning **EVERYTHING**
+
+- 👯 I’m looking to collaborate on C++ projects, indie software projects, new open-source game engines
+
+- 😄 Pronouns: You may call me any pronoun you'd like
+
+
 <!--
 I am a scientist with academic research experience and a strong computer background. I have an expertise in Monte Carlo simulations, experience in modeling 3-D solids, and application of machine learning &/ computer vision to problems of this kind.
 
