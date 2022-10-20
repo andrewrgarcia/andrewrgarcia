@@ -7,7 +7,7 @@ My name's Andrew. I have a Ph.D. in Chemical Engineering from the University of 
 
 - 🌱 I’m currently learning **EVERYTHING** 😩
 
-- 👯 I’m looking to collaborate on C++ projects, indie software projects, new open-source game engines
+- 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
 
 - 😄 Pronouns: You may call me any pronoun you'd like
 
