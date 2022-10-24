@@ -7,7 +7,7 @@ My name's Andrew. I have a Ph.D. in Chemical Engineering from the University of 
 
 - 💬 Ask me about crystals, entropy, artificial intelligence, cloud computing, and [**voxelmap**](https://andrewatcloud.com/voxelmap).
 
-- 🌱 I’m currently learning **EVERYTHING** 😩
+- 🌱 I’m currently learning **EVERYTHING** 
 
 - 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
 
