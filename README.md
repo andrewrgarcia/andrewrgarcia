@@ -11,10 +11,11 @@ My name's Andrew. I have a Ph.D. in Chemical Engineering from the University of 
 
 - 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
 
+<!--
 - 😄 Pronouns: You may call me any pronoun you'd like
 
 
-<!--
+
 I am a scientist with academic research experience and a strong computer background. I have an expertise in Monte Carlo simulations, experience in modeling 3-D solids, and application of machine learning &/ computer vision to problems of this kind.
 
 - 💬 Ask me about crystal growth, entropy, artificial intelligence, and cloud computing.
