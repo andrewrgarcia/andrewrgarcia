@@ -25,7 +25,7 @@ I am a scientist with academic research experience and a strong computer backgro
 
 
 
-[![@garcia's Holopin board](https://holopin.io/api/user/board?user=garcia)](https://holopin.io/@garcia)
+
 
 -->
 
@@ -41,10 +41,11 @@ Social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
-
-<a href="https://www.digitalocean.com/?refcode=b86f53f9a50f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+[![@garcia's Holopin board](https://holopin.io/api/user/board?user=garcia)](https://holopin.io/@garcia)
 
 <!--
+<a href="https://www.digitalocean.com/?refcode=b86f53f9a50f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
 **andrewrgarcia/andrewrgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
