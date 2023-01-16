@@ -2,12 +2,15 @@
 ### Hi there 👋
 <!--
 My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
--->
+
 I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
+-->
 
 - 💬 Ask me about entropy, artificial intelligence, cloud computing, and [**voxelmap**](https://github.com/andrewrgarcia/voxelmap).
 
-- 🌱 I’m currently learning **EVERYTHING** 
+<!--
+- 🌱 I’m currently learning 
+-->
 
 - 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
 
