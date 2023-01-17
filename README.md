@@ -6,7 +6,7 @@ My area of expertise is in discrete stochastic simulations of crystals, and appl
 I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
 -->
 
-- 💬 Ask me about entropy, artificial intelligence, cloud computing, and [**voxelmap**](https://github.com/andrewrgarcia/voxelmap).
+- 💬 Ask me about entropy, artificial intelligence, cloud computing, and my pinned Github repositories **below**
 
 <!--
 - 🌱 I’m currently learning 
