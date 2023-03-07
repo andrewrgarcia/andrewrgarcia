@@ -1,4 +1,4 @@
-![](checkered_xtal.PNG)
+![](checkered_xtal_CP.PNG)
 ### Hi there 👋
 <!--
 My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
