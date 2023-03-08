@@ -1,4 +1,7 @@
 ![](checkered_xtal_CP.PNG)
+
+#### Suit and tie on profile picture (Dressed by): [DALL-E 2](https://openai.com/product/dall-e-2)
+
 ### Hi there 👋
 <!--
 My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
