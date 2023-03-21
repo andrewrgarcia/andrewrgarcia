@@ -1,10 +1,12 @@
-![](checkered_xtal_CP.PNG)
+![](montecarlo.png)
 ### Hi there 👋
 <!--
 My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
 
 I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
 -->
+
+I am a scientist with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in holography (the mathematical/computational manipulation of 3-D images). 
 
 - 💬 Ask me about entropy, artificial intelligence, cloud computing, and my pinned Github repositories.
 
@@ -17,7 +19,7 @@ I have been expanding my graphics experience to more general representations of 
 
 
 
-I am a scientist with academic research experience and a strong computer background. I have an expertise in Monte Carlo simulations, experience in modeling 3-D solids, and application of machine learning &/ computer vision to problems of this kind.
+
 
 - 💬 Ask me about crystal growth, entropy, artificial intelligence, and cloud computing.
 
