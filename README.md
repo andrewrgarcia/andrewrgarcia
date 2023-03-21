@@ -1,6 +1,6 @@
 ![](checkered_xtal_CP.PNG)
 
-#### Suit and tie on profile picture (Dressed by): [DALL-E 2](https://openai.com/product/dall-e-2)
+#### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2)
 
 ### Hi there 👋
 <!--
