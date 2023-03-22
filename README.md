@@ -3,11 +3,6 @@
 #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2)
 
 ### Hi there 👋
-<!--
-My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
-
-I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
--->
 
 I am a scientist with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in holography (the mathematical/computational manipulation of 3-D images). 
 
@@ -16,26 +11,6 @@ I am a scientist with academic research experience and a strong computer backgro
 - 🌱 I’m currently learning Unity 
 
 - 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
-
-
-
-<!--
-- 😄 Pronouns: You may call me any pronoun you'd like
-
-
-
-
-
-- 💬 Ask me about crystal growth, entropy, artificial intelligence, and cloud computing.
-
-
-- :mailbox:How to reach me:
-
-
-
-
-
--->
 
 Main programming languages :
 
@@ -49,9 +24,14 @@ Social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
-![](acceptance.png)
+[![](acceptance.png)](https://colab.research.google.com/drive/1EQmRJ4GeXcyIkgLUn59Fnt3gwv_yQlu-?usp=sharing)
+
 
 <!--
+
+My area of expertise is in discrete stochastic simulations of crystals, and applications thereof to mathematical manipulation and machine learning algorithms. 
+
+I have been expanding my graphics experience to more general representations of 3D solids, and have been applying my knowledge to code new algorithms using efficient programming languages such as Python and C++. 
 
 [![@garcia's Holopin board](https://holopin.io/api/user/board?user=garcia)](https://holopin.io/@garcia)
 
