@@ -17,6 +17,8 @@ I am a scientist with academic research experience and a strong computer backgro
 
 - 👯 I’m looking to collaborate on C++ and Python projects, indie software projects, new open-source game engines
 
+
+
 <!--
 - 😄 Pronouns: You may call me any pronoun you'd like
 
@@ -47,6 +49,7 @@ Social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewrygarcia)
 
+![](acceptance.png)
 
 <!--
 
