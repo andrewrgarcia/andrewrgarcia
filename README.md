@@ -1,4 +1,4 @@
-![](montecarlo.png)
+![](montecarlo-1.png)
 
 #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2)
 
