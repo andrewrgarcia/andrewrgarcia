@@ -1,7 +1,7 @@
 <!-- ![](montecarlo-1.png) -->
 
 <!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
-#### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D recostruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
+#### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D reconstruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
 
 ### Hi there 👋
 
