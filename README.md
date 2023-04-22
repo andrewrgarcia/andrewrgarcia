@@ -1,6 +1,7 @@
 <!-- ![](montecarlo-1.png) -->
 
-#### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2)
+<!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
+#### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D recostruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
 
 ### Hi there 👋
 
@@ -14,7 +15,7 @@ I am a scientist with academic research experience and a strong computer backgro
 
 Main programming languages :
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23cpp) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23csharp) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/search?q=user%3Aandrewrgarcia+%23javascript) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=user%3Aandrewrgarcia+%23python) [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23latex)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/search?q=user%3Aandrewrgarcia+%23python)  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23cpp) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23csharp) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/search?q=user%3Aandrewrgarcia+%23javascript)[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/search?q=user%3Aandrewrgarcia+%23latex)
 
 Frameworks, Platforms and Libraries:
 
