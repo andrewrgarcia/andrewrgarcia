@@ -1,10 +1,10 @@
-![](montecarlo-1.png)
+<!-- ![](montecarlo-1.png) -->
 
 #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2)
 
 ### Hi there 👋
 
-I am a scientist with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in holography (the mathematical/computational manipulation of 3-D images). 
+I am a scientist with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in materials modeling. 
 
 - 💬 Ask me about entropy, artificial intelligence, cloud computing, and my pinned Github repositories.
 
