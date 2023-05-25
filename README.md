@@ -1,11 +1,11 @@
 <!-- ![](montecarlo-1.png) -->
-
+#### I'm [an app](https://adryanGL.vercel.app) now!
 <!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
 #### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D reconstruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
 
 ### Hi there 👋
 
-I am a scientist with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in materials modeling. 
+I am an engineer with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in materials modeling. 
 
 - 💬 Ask me about entropy, artificial intelligence, cloud computing, and my pinned Github repositories.
 
