@@ -1,5 +1,5 @@
 <!-- ![](montecarlo-1.png) -->
-#### I'm [an app](https://adryanGL.vercel.app) now!
+#### I'm [an app](https://adryanGL.vercel.app) now
 <!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
 #### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D reconstruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
 
