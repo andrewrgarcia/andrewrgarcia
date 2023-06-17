@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_timezone: America/Lima
+          config_timezone: America/NY
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -70,3 +70,4 @@ jobs:
           plugin_projects_limit: 4
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_random: 3
