@@ -3,7 +3,9 @@
 <!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
 #### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D reconstruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
 
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/andrewrgarcia?template=classic&isocalendar=1&languages=1&repositories=1&achievements=1&notable=1&introduction=1&lines=1&code=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&config.timezone=America%2FLima&config.twemoji=true&config.octicon=true)
+
+<!-- ### Hi there 👋
 
 I am an engineer with academic research experience and a strong computer background. I have substantial experience in Monte Carlo simulations, the application of machine learning &/ computer vision to stochastic problems, and in materials modeling. 
 
@@ -28,7 +30,7 @@ MERN Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  -->
 
 <!-- 
 Social:
