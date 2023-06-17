@@ -37,14 +37,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
-          plugin_chess_user: .user.login
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
@@ -69,13 +61,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_nightscout: yes
-          plugin_nightscout_datapoints: 12
-          plugin_nightscout_highalert: 180
-          plugin_nightscout_lowalert: 80
-          plugin_nightscout_urgenthighalert: 250
-          plugin_nightscout_urgentlowalert: 50
-          plugin_nightscout_url: https://example.herokuapp.com
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
@@ -85,13 +70,3 @@ jobs:
           plugin_projects_limit: 4
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://adryangl.vercel.app
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
