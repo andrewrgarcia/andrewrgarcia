@@ -1,7 +1,7 @@
 <!-- ![](montecarlo-1.png) -->
 #### [Website](https://adryanGL.vercel.app) 
 <!-- #### Dressed by [DALL-E 2](https://openai.com/product/dall-e-2) -->
-#### Self portrait made with [Voxelmap](https://voxelmap.readthedocs.io/en/latest/index.html) using a [3-D reconstruction protocol](https://voxelmap.readthedocs.io/en/latest/examples/meshrec.html)
+#### Self portrait is a 3D model made with Python and Open3D using a monocular depth estimation [Transformer model](https://huggingface.co/vinvino02/glpn-nyu)
 
 [Check out my stats](https://metrics.lecoq.io/insights/andrewrgarcia)
 
