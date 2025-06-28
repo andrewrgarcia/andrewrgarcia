@@ -2,10 +2,14 @@
 
 👋 Hey there! I'm glad you're here.
 
-If you're curious about how I build and think, check out [OnTitan](https://ontitan.vercel.app/), a surreal 3D world I designed from scratch.
+If you're curious about how I build and think, check out these two very different worlds:
 
-Set on Saturn’s moon Titan, it’s an immersive space that reflects parts of who I am: a sense of wonder, vast quiet, and strange beauty. You'll find a floating hovercraft, electric consulting pods that destabilize when approached, and Saturn itself rising behind the Mithrim Montes.
+### 🌌 [OnTitan](https://ontitan.vercel.app/)
 
-Everything you see there, from the hovercraft to the terrain, was modeled and built by me.
+A surreal 3D space set on Saturn’s moon Titan — a quiet, expansive environment I designed from scratch. There’s a floating hovercraft, destabilizing electric pods, and Saturn itself looming over the horizon. This is my ode to mystery, solitude, and strange beauty. Every model, texture, and scene was built by me.
 
-It's a personal world that captures how I approach code, design, and imagination.
+### 🩸👑 [The Fractal Prince](https://thefractalprince.vercel.app/) *(AKA [runawayfromthepain.vercel.app](https://runawayfromthepain.vercel.app/))*
+
+A brutalist, blood-slicked platformer where you run, jump, and spin through glitchy deathscapes. It’s fast, weird, and unreasonably red. This is where I let the code get wild — physics, particles, retro vibes, and just enough pain to keep it interesting.
+
+These projects capture how I approach code, design, and imagination — whether it's meditative or manic.
