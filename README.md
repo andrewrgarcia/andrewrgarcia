@@ -38,18 +38,15 @@ Built in **TypeScript** with a custom engine.
 A stylized 2.5D brawler in **Unity (C#)** — expressive combat, cartoon logic, and meaning encoded in movement.  
 → *Chaos with a soul.*
 
-### 🧪 PowerXRD *(in development)*  
-A standalone XRD refinement tool — built to rethink the workflow currently dominated by FullProf and MAUD.  
-→ *Modern Rietveld refinement, open and restructured.*
-
-### 🌳 twee  
+### 🌳 [twee](https://github.com/andrewrgarcia/twee)  
 A lightweight **C-based** CLI for flattening project directories into AI-readable text.  
 Handles subfolders, file filtering, and feed formatting.  
 → *Prepares codebases for neural digestion.*
 
-### 🧊 Iceberg *(early prototype)*  
-A version control and compression tool for chat-based systems.  
-→ *Distills long conversations into compact cores — memory for machines.*
+
+### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*  
+A standalone XRD refinement tool — built to rethink the workflow currently dominated by FullProf and MAUD.  
+→ *Modern Rietveld refinement, open and restructured.*
 
 ---
 
