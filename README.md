@@ -1,15 +1,82 @@
 # Welcome to My GitHub
 
-👋 Hey there! I'm glad you're here.
+👋 Hello — I’m glad you’re here.
 
-If you're curious about how I build and think, check out these two very different worlds:
+I’m **Andrew Garcia**, a developer, researcher, and systems thinker working at the intersection of **AI, scientific tooling, interactive design, and narrative structure**.
 
-### 🌌 [OnTitan](https://ontitan.vercel.app/)
+I hold a doctorate in **Chemical Engineering**, and my work blends rigorous scientific foundations with creative systems architecture — from crystallographic software to emotionally intelligent games, from neural forecasting tools to recursive text engines.
 
-A surreal 3D space set on Saturn’s moon Titan — a quiet, expansive environment I designed from scratch. There’s a floating hovercraft, destabilizing electric pods, and Saturn itself looming over the horizon. This is my ode to mystery, solitude, and strange beauty. Every model, texture, and scene was built by me.
+I’ve taught **Computer Programming**, **Data Structures**, and **Algorithmic Thinking** in universities across Lima.  
+My path hasn’t always been linear — but I’ve built tools that matter, and I’ve taught ideas that stick.
 
-### 🩸👑 [The Fractal Prince](https://thefractalprince.vercel.app/) *(AKA [runawayfromthepain.vercel.app](https://runawayfromthepain.vercel.app/))*
+---
 
-A brutalist, blood-slicked platformer where you run, jump, and spin through glitchy deathscapes. It’s fast, weird, and unreasonably red. This is where I let the code get wild — physics, particles, retro vibes, and just enough pain to keep it interesting.
+## 🧠 What I Build
 
-These projects capture how I approach code, design, and imagination — whether it's meditative or manic.
+I explore software as more than utility.  
+To me, it’s a medium for:
+
+- Recursive logic  
+- Interpretability in AI systems  
+- Symbolic compression  
+- Structure-as-narrative  
+- Scientific clarity with emotional tone
+
+Some projects are technical. Some are expressive.  
+All are designed to reflect *how systems think — and how humans feel*.
+
+---
+
+## 🚧 Projects
+
+### 🩸 [The Fractal Prince](https://thefractalprince.vercel.app/)  
+A glitch-poem in game form: retro movement, recursive structure, and symbolic violence.  
+Built in **TypeScript** with a custom engine.  
+→ *Play it online. It’s red. It’s weird. It loops.*
+
+### ⚔️ Fractal Brawl *(in development)*  
+A stylized 2.5D brawler in **Unity (C#)** — expressive combat, cartoon logic, and meaning encoded in movement.  
+→ *Chaos with a soul.*
+
+### 🧪 PowerXRD *(in development)*  
+A standalone XRD refinement tool — built to rethink the workflow currently dominated by FullProf and MAUD.  
+→ *Modern Rietveld refinement, open and restructured.*
+
+### 🌳 twee  
+A lightweight **C-based** CLI for flattening project directories into AI-readable text.  
+Handles subfolders, file filtering, and feed formatting.  
+→ *Prepares codebases for neural digestion.*
+
+### 🧊 Iceberg *(early prototype)*  
+A version control and compression tool for chat-based systems.  
+→ *Distills long conversations into compact cores — memory for machines.*
+
+---
+
+## 📘 Background
+
+- **Ph.D. in Chemical Engineering** — trained in modeling, simulation, and structural reasoning  
+- Taught **Data Structures and Algorithms** at UTEC (Lima)  
+- Taught **Computer Programming** at Universidad del Pacífico  
+- Experience in materials modeling, economic forecasting tools, and interactive media
+
+---
+
+## 🧭 Currently
+
+- Developing **Fractal Brawl**, **PowerXRD**, and **TWEE**  
+- Prototyping **Iceberg**, my framework for chat memory compression  
+- Writing about performance, meaning, and recursion in software systems
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Collaborations in AI, data tooling, narrative systems, or simulation  
+- Research partnerships with a focus on structure, meaning, or design  
+- Building systems that are clear, complex, and just a little bit haunted
+
+If anything here resonates — reach out.
+
+— **ARG, Ph.D.**
