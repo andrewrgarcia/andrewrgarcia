@@ -1,79 +1,69 @@
 # Welcome to My GitHub
 
-👋 Hello — I’m glad you’re here.
+👋 I’m **Andrew Garcia**, a developer and researcher working at the intersection of **AI, scientific tooling, interactive design, and narrative systems**.
 
-I’m **Andrew Garcia**, a developer, researcher, and systems thinker working at the intersection of **AI, scientific tooling, interactive design, and narrative structure**.
+With a Ph.D. in **Chemical Engineering**, I combine scientific modeling with creative software — from crystallographic tools to recursive games, from neural forecasting engines to symbolic code compressors.
 
-I hold a doctorate in **Chemical Engineering**, and my work blends rigorous scientific foundations with creative systems architecture — from crystallographic software to emotionally intelligent games, from neural forecasting tools to recursive text engines.
-
-I’ve taught **Computer Programming**, **Data Structures**, and **Algorithmic Thinking** in universities across Lima.  
-My path hasn’t always been linear — but I’ve built tools that matter, and I’ve taught ideas that stick.
+I’ve taught **Data Structures**, **Algorithms**, and **Programming** at universities across Lima.
+I build things that think. I teach things that stick.
 
 ---
 
-## 🧠 What I Build
+## 🛠️ What I Build
 
-I explore software as more than utility.  
-To me, it’s a medium for:
+I treat software as a medium for:
 
-- Recursive logic  
-- Interpretability in AI systems  
-- Symbolic compression  
-- Structure-as-narrative  
-- Scientific clarity with emotional tone
+* Recursive logic
+* AI interpretability
+* Symbolic structure
+* Narrative systems
+* Scientific clarity with emotional tone
 
-Some projects are technical. Some are expressive.  
-All are designed to reflect *how systems think — and how humans feel*.
+Some tools are technical. Some are expressive.
+All reflect how *systems think* — and how *humans feel*.
 
 ---
 
 ## 🚧 Projects
 
-### 🩸 [The Fractal Prince](https://thefractalprince.vercel.app/)  
-A glitch-poem in game form: retro movement, recursive structure, and symbolic violence.  
-Built in **TypeScript** with a custom engine.  
-→ *Play it online. It’s red. It’s weird. It loops.*
+### 🩸 [The Fractal Prince](https://thefractalprince.vercel.app/)
 
-### ⚔️ Fractal Brawl *(in development)*  
-A stylized 2.5D brawler in **Unity (C#)** — expressive combat, cartoon logic, and meaning encoded in movement.  
+A glitch-poem in game form — retro movement, symbolic loops, and blood logic. Built in **TypeScript**.
+
+### ⚔️ Fractal Brawl *(in development)*
+
+A 2.5D Unity brawler with expressive combat and encoded meaning.
 → *Chaos with a soul.*
 
-### 🌳 [twee](https://github.com/andrewrgarcia/twee)  
-A lightweight **C-based** CLI for flattening project directories into AI-readable text.  
-Handles subfolders, file filtering, and feed formatting.  
-→ *Prepares codebases for neural digestion.*
+### 🌳 [twee](https://github.com/andrewrgarcia/twee)
 
+A **C-based** CLI for flattening project directories into AI-readable text.
+→ *Neural prep for codebases.*
 
-### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*  
-A standalone XRD refinement tool — built to rethink the workflow currently dominated by FullProf and MAUD.  
-→ *Modern Rietveld refinement, open and restructured.*
+### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*
 
----
-
-## 📘 Background
-
-- **Ph.D. in Chemical Engineering** — trained in modeling, simulation, and structural reasoning  
-- Taught **Data Structures and Algorithms** at UTEC (Lima)  
-- Taught **Computer Programming** at Universidad del Pacífico  
-- Experience in materials modeling, economic forecasting tools, and interactive media
+A modern, standalone Rietveld refinement tool for XRD analysis.
+→ *Scientific software, restructured.*
 
 ---
 
-## 🧭 Currently
+## 📘 Background & Now
 
-- Developing **Fractal Brawl**, **PowerXRD**, and **TWEE**  
-- Prototyping **Iceberg**, my framework for chat memory compression  
-- Writing about performance, meaning, and recursion in software systems
+* Ph.D. in Chemical Engineering — modeling & simulation focus
+* Taught programming & algorithms at UTEC and Universidad del Pacífico
+* Built tools in materials modeling, forecasting, and interactive media
+* Currently prototyping **Fractal Brawl**, **PowerXRD**, **twee**, and **Iceberg** (a memory compression framework for chats)
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m open to:
-- Collaborations in AI, data tooling, narrative systems, or simulation  
-- Research partnerships with a focus on structure, meaning, or design  
-- Building systems that are clear, complex, and just a little bit haunted
+Open to collaboration on:
 
-If anything here resonates — reach out.
+* AI systems & scientific tooling
+* Narrative engines & symbolic design
+* Software that is clear, recursive, and maybe a little haunted
+
+Reach out if any of this sounds like your kind of weird.
 
 — **ARG, Ph.D.**
