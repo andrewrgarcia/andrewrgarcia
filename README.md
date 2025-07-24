@@ -11,7 +11,7 @@ I build things that think. I teach things that stick.
 
 ## 🛠️ What I Build
 
-I treat software as a medium for:
+I treat software as a medium — not just a tool — for:
 
 * Recursive logic
 * AI interpretability
@@ -26,24 +26,31 @@ All reflect how *systems think* — and how *humans feel*.
 
 ## 🚧 Projects
 
-### 🩸 [The Fractal Prince](https://thefractalprince.vercel.app/)
-
-A glitch-poem in game form — retro movement, symbolic loops, and blood logic. Built in **TypeScript**.
-
-### ⚔️ Fractal Brawl *(in development)*
-
-A 2.5D Unity brawler with expressive combat and encoded meaning.
-→ *Chaos with a soul.*
-
 ### 🌳 [twee](https://github.com/andrewrgarcia/twee)
 
-A **C-based** CLI for flattening project directories into AI-readable text.
+A **C-based CLI** for flattening directory structures into AI-readable text.
 → *Neural prep for codebases.*
+
+---
 
 ### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*
 
-A modern, standalone Rietveld refinement tool for XRD analysis.
+A modern Rietveld refinement tool for X-ray diffraction analysis.
 → *Scientific software, restructured.*
+
+---
+
+### ☢️ [AESus](https://aesus.vercel.app)
+
+A Rust-powered AES-256-CBC encryption CLI with Diceware support and a daemon that appears when you ask it who it is.
+→ *Encrypt responsibly — or don’t.*
+
+---
+
+### 🔁 Recursive Introspection Engine *(in development)*
+
+A forecasting system built around structural self-reference and layered signal modeling.
+→ *Prediction, rethought recursively.*
 
 ---
 
@@ -51,8 +58,8 @@ A modern, standalone Rietveld refinement tool for XRD analysis.
 
 * Ph.D. in Chemical Engineering — modeling & simulation focus
 * Taught programming & algorithms at UTEC and Universidad del Pacífico
-* Built tools in materials modeling, forecasting, and interactive media
-* Currently prototyping **Fractal Brawl**, **PowerXRD**, **twee**, and **Iceberg** (a memory compression framework for chats)
+* Built tools in materials modeling, neural forecasting, symbolic systems, and interactive media
+* Currently developing **PowerXRD**, **AESus**, **twee**, and a recursive forecasting engine
 
 ---
 
