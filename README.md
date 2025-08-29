@@ -1,76 +1,60 @@
-# Welcome to My GitHub
+# 👋 Andrew R. Garcia, Ph.D.
 
-👋 I’m **Andrew Garcia**, a developer and researcher working at the intersection of **AI, scientific tooling, interactive design, and narrative systems**.
-
-With a Ph.D. in **Chemical Engineering**, I combine scientific modeling with creative software — from crystallographic tools to recursive games, from neural forecasting engines to symbolic code compressors.
-
-I’ve taught **Data Structures**, **Algorithms**, and **Programming** at universities across Lima.
-I build things that think. I teach things that stick.
+**Computer Scientist & AI Developer**
+I build recursive systems, forecasting engines, and haunted CLIs.
 
 ---
 
-## 🛠️ What I Build
+## 🚀 Spotlight Projects
 
-I treat software as a medium — not just a tool — for:
+### 🌀 [FUR](https://crates.io/crates/fur-cli)
 
-* Recursive logic
-* AI interpretability
-* Symbolic structure
-* Narrative systems
-* Scientific clarity with emotional tone
-
-Some tools are technical. Some are expressive.
-All reflect how *systems think* — and how *humans feel*.
+**Forkable Unearthable Recursive memory tracker** — think Git, but for conversations.
+Freeze, fork, and switch chat sessions like code.
 
 ---
 
-## 🚧 Projects
+### 🔁 Recursive Introspection System *(in development)*
 
-### 🌳 [twee](https://github.com/andrewrgarcia/twee)
-
-A **C-based CLI** for flattening directory structures into AI-readable text.
-→ *Neural prep for codebases.*
+AI for **institutional forecasting**.
+Submitted to the Central Bank Conference (Oct 2025).
+A recursive meta-learning engine that guides variable selection and adapts across trials.
 
 ---
 
 ### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*
 
-A modern Rietveld refinement tool for X-ray diffraction analysis.
-→ *Scientific software, restructured.*
+A modern Rietveld refinement tool for crystallographic data.
+Blends **experimental rigor** with restructured analysis.
 
 ---
 
-### ☢️ [AESus](https://aesus.vercel.app)
+### 🌳 [twee](https://github.com/andrewrgarcia/twee)
 
-A Rust-powered AES-256-CBC encryption CLI with Diceware support and a daemon that appears when you ask it who it is.
-→ *Encrypt responsibly — or don’t.*
-
----
-
-### 🔁 Recursive Introspection Engine *(in development)*
-
-A forecasting system built around structural self-reference and layered signal modeling.
-→ *Prediction, rethought recursively.*
+A C-based CLI that flattens directory structures into AI-readable text.
+→ Simple, recursive prep for codebases.
 
 ---
 
-## 📘 Background & Now
+## 📘 Background
 
-* Ph.D. in Chemical Engineering — modeling & simulation focus
-* Taught programming & algorithms at UTEC and Universidad del Pacífico
-* Built tools in materials modeling, neural forecasting, symbolic systems, and interactive media
-* Currently developing **PowerXRD**, **AESus**, **twee**, and a recursive forecasting engine
+* Ph.D. in **Chemical Engineering** (modeling *and* experimental work).
+* Instructor of **Data Structures & Algorithms** (UTEC) and **Programming Tools** (Universidad del Pacífico).
+* Developer of tools spanning:
+
+  * Institutional forecasting (RIS)
+  * Crystallography & experimental science (PowerXRD)
+  * Recursive memory/versioning systems (FUR)
+  * Developer infra (twee)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-Open to collaboration on:
+I collaborate on:
 
-* AI systems & scientific tooling
-* Narrative engines & symbolic design
-* Software that is clear, recursive, and maybe a little haunted
+* **AI systems with explainability & recursion**
+* **Scientific software** with clean, modern design
+* **Infra tools** that make workflows forkable, transparent, and a little haunted
 
-Reach out if any of this sounds like your kind of weird.
-
-— **ARG, Ph.D.**
+— **Andrew R. Garcia, Ph.D.**
