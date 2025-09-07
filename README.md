@@ -7,32 +7,37 @@ I build recursive systems, forecasting engines, and haunted CLIs.
 
 ## 🚀 Spotlight Projects
 
-### 🌀 [FUR](https://crates.io/crates/fur-cli)
+### 🦊 [FUR](https://crates.io/crates/fur-cli) 
 
-**Forkable Unearthable Recursive memory tracker** — think Git, but for conversations.
+**Forkable Unearthable Recursive memory tracker**. Think Git, but for conversations.
 Freeze, fork, and switch chat sessions like code.
 
 ---
 
-### 🔁 Recursive Introspection System *(in development)*
+### ⚔️ [Yggdrasil](https://crates.io/crates/yggdrasil-cli)
 
-AI for **institutional forecasting**.
-Submitted to the Central Bank Conference (Oct 2025).
-A recursive meta-learning engine that guides variable selection and adapts across trials.
+**The god-tree of your codebase.**
+Flatten your entire project into an **AI-ready document**; index + contents, Markdown or CLI.
+Think *`tree` + `cat`*, but mythic, cyberpunk, and built for LLM workflows.
 
 ---
 
-### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(in development)*
+### 👁️‍🗨️ AI-Guided Variable Selection
+
+Forecasting isn’t just about fitting models; it’s about **learning from [metadata and relationships between variables](https://monthly-economic-networks-pe.vercel.app)**.
+
+This project builds an engine that:
+
+* Surfaces **clusters of related indicators**.
+* Exposes **hidden dependencies** through metadata.
+* Adapts across trials with recursive learning loops.
+
+---
+
+### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(experimental)*
 
 A modern Rietveld refinement tool for crystallographic data.
 Blends **experimental rigor** with restructured analysis.
-
----
-
-### 🌳 [twee](https://github.com/andrewrgarcia/twee)
-
-A C-based CLI that flattens directory structures into AI-readable text.
-→ Simple, recursive prep for codebases.
 
 ---
 
@@ -42,10 +47,10 @@ A C-based CLI that flattens directory structures into AI-readable text.
 * Instructor of **Data Structures & Algorithms** (UTEC) and **Programming Tools** (Universidad del Pacífico).
 * Developer of tools spanning:
 
-  * Institutional forecasting (RIS)
-  * Crystallography & experimental science (PowerXRD)
   * Recursive memory/versioning systems (FUR)
-  * Developer infra (twee)
+  * Developer infra (Yggdrasil)
+  * Institutional forecasting (AI-guided selection)
+  * Crystallography & experimental science (PowerXRD)
 
 ---
 
