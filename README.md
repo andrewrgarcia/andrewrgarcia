@@ -7,7 +7,7 @@ I build recursive systems, forecasting engines, and haunted CLIs.
 
 ## 🚀 Spotlight Projects
 
-### 🦊 [FUR](https://crates.io/crates/fur-cli) 
+### 🦊 [FUR](https://furchats.vercel.app) 
 
 **Forkable Unearthable Recursive memory tracker**. Think Git, but for conversations.
 Freeze, fork, and switch chat sessions like code.
