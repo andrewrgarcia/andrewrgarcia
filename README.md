@@ -14,7 +14,7 @@ Freeze, fork, and switch chat sessions like code.
 
 ---
 
-### ⚔️ [Yggdrasil](https://crates.io/crates/yggdrasil-cli)
+### ⚔️ [Yggdrasil (YGG)](https://crates.io/crates/yggdrasil-cli)
 
 **The god-tree of your codebase.**
 Flatten your entire project into an **AI-ready document**; index + contents, Markdown or CLI.
