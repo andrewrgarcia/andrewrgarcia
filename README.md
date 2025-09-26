@@ -1,65 +1,53 @@
-# 👋 Andrew R. Garcia, Ph.D.
+# 👋 Andrew R. Garcia
 
-**Computer Scientist & AI Developer**
-I build recursive systems, forecasting engines, and haunted CLIs.
-
----
-
-## 🚀 Spotlight Projects
-
-### 🦊 [FUR](https://furchats.vercel.app) 
-
-**Forkable Unearthable Recursive memory tracker**. Think Git, but for conversations.
-Freeze, fork, and switch chat sessions like code.
+**AI Developer & Systems Builder**  
+I make recursive tools, voxel languages, and haunted CLIs.
 
 ---
 
-### ⚔️ [Yggdrasil (YGG)](https://crates.io/crates/yggdrasil-cli)
+## 🚀 Flagship Projects
 
-**The god-tree of your codebase.**
-Flatten your entire project into an **AI-ready document**; index + contents, Markdown or CLI.
-Think *`tree` + `cat`*, but mythic, cyberpunk, and built for LLM workflows.
-
----
-
-### 👁️‍🗨️ AI-Guided Variable Selection
-
-Forecasting isn’t just about fitting models; it’s about **learning from [metadata and relationships between variables](https://monthly-economic-networks-pe.vercel.app)**.
-
-This project builds an engine that:
-
-* Surfaces **clusters of related indicators**.
-* Exposes **hidden dependencies** through metadata.
-* Adapts across trials with recursive learning loops.
+### [FUR](https://furchats.vercel.app)  
+**Forkable Unearthable Recursive memory tracker.**  
+Like Git, but for conversations: freeze, fork, and switch chat sessions.
 
 ---
 
-### 🧪 [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(experimental)*
+### [MoxiLang](https://github.com/moxilang/moxi) *(in development)*  
+**Voxel programming language & engine.**  
+Intuitive for humans, simple enough for AIs to generate voxel worlds.
 
-A modern Rietveld refinement tool for crystallographic data.
+---
+
+### [Yggdrasil (YGG)](https://crates.io/crates/yggdrasil-cli)  
+**The god-tree of your codebase.**  
+Flatten projects into **AI-ready codices** (index + contents).  
+Think `tree` + `cat`, but mythic and cyberpunk.
+
+---
+
+### [PowerXRD](https://github.com/andrewrgarcia/powerxrd/wiki) *(experimental)*  
+Modern Rietveld refinement for crystallography.  
 Blends **experimental rigor** with restructured analysis.
 
 ---
 
 ## 📘 Background
-
-* Ph.D. in **Chemical Engineering** (modeling *and* experimental work).
-* Instructor of **Data Structures & Algorithms** (UTEC) and **Programming Tools** (Universidad del Pacífico).
-* Developer of tools spanning:
-
-  * Recursive memory/versioning systems (FUR)
-  * Developer infra (Yggdrasil)
-  * Institutional forecasting (AI-guided selection)
-  * Crystallography & experimental science (PowerXRD)
+- Ph.D. in **Chemical Engineering** (modeling + experimental methods).  
+- Instructor of **Data Structures & Algorithms** (UTEC) and **Programming Tools** (Universidad del Pacífico).  
+- Builder of AI and analysis tools for institutional and scientific workflows.  
+- Developer of:  
+  - Recursive memory/versioning systems (FUR)  
+  - Developer infra (Yggdrasil)  
+  - Voxel programming & rendering (MoxiLang)  
+  - Domain science software (PowerXRD)  
 
 ---
 
 ## 🤝 Connect
+I collaborate on:  
+- **AI & analysis systems** with recursion and explainability  
+- **Scientific/engineering software** with clean, modern design  
+- **Infra tools** that make workflows forkable, transparent, and a little haunted  
 
-I collaborate on:
-
-* **AI systems with explainability & recursion**
-* **Scientific software** with clean, modern design
-* **Infra tools** that make workflows forkable, transparent, and a little haunted
-
-— **Andrew R. Garcia, Ph.D.**
+— **Andrew R. Garcia**
