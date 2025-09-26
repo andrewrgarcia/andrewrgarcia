@@ -7,7 +7,7 @@ Like Git, but for conversations: freeze, fork, and switch chat sessions.
 ---
 
 ### [MoxiLang](https://github.com/moxilang/moxi) *(in development)*  
-**Voxel programming language & engine.**  
+**All-in-one Voxel programming language + voxel engine.**  
 Intuitive for humans, simple enough for AIs to generate voxel worlds.
 
 ---
