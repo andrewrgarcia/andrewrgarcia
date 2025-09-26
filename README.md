@@ -1,10 +1,5 @@
 # 👋 Andrew R. Garcia
 
-**AI Developer & Systems Builder**  
-I make recursive tools, voxel languages, and haunted CLIs.
-
----
-
 ## 🚀 Flagship Projects
 
 ### [FUR](https://furchats.vercel.app)  
