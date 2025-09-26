@@ -1,6 +1,4 @@
-# 👋 Andrew R. Garcia
-
-## 🚀 Flagship Projects
+# Flagship Open Source
 
 ### [FUR](https://furchats.vercel.app)  
 **Forkable Unearthable Recursive memory tracker.**  
@@ -27,19 +25,13 @@ Blends **experimental rigor** with restructured analysis.
 
 ---
 
-## 📘 Background
+# 📘 Background
 - Ph.D. in **Chemical Engineering** (modeling + experimental methods).  
 - Instructor of **Data Structures & Algorithms** (UTEC) and **Programming Tools** (Universidad del Pacífico).  
 - Builder of AI and analysis tools for institutional and scientific workflows.  
-- Developer of:  
-  - Recursive memory/versioning systems (FUR)  
-  - Developer infra (Yggdrasil)  
-  - Voxel programming & rendering (MoxiLang)  
-  - Domain science software (PowerXRD)  
-
 ---
 
-## 🤝 Connect
+# 🤝 Connect
 I collaborate on:  
 - **AI & analysis systems** with recursion and explainability  
 - **Scientific/engineering software** with clean, modern design  
