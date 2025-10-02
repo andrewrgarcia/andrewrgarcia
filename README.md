@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Pengu mascot" width="160"/>
+  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Pengu mascot" width="140"/>
 </p>
 
 # Andrew Garcia
-
-Ph.D. in **Chemical Engineering** → Builder of **AI systems, programming languages, and scientific tools**.  
+Ph.D. in **Chemical Engineering** and **Computer Scientist** → Builder of **AI systems, programming languages, and scientific tools**.  
 I focus on clean, recursive design that makes workflows forkable, explainable, and human-friendly.  
 
 ---
