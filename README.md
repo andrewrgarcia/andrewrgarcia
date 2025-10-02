@@ -11,16 +11,18 @@ I focus on clean, recursive design that makes workflows forkable, explainable, a
 # 🚀 Flagship Open Source 
 
 ### [FUR](https://furchats.vercel.app)  
-**Forkable Unearthable Recursive memory tracker.**  
-Like Git, but for conversations: freeze, fork, and switch chat sessions.
+**A personal diary for your AI chats.**  
+Copy-paste conversations from ChatGPT or any AI, and FUR keeps them  _with metadata_ in your own space.  
+Simple commands (`jot`, `chat`, `tree`, `timeline`) let you  search, and print and MAKE your conversation history.  
+Your conversations, your memory. Not on someone else’s server.
 
 ---
 
-### [Moxi (Org)](https://github.com/moxi-lang)  
+### [Moxi (Org)](https://github.com/moxilang)  
 **Voxel-first software ecosystem.**
 
-- [**Voxelmap**](https://github.com/moxi-lang/voxelmap): Python voxel modeling library + 3D rendering.  
-- [**MoxiLang**](https://github.com/moxi-lang/moxi): LLM-friendly programming language for 3D models.  
+- [**Voxelmap**](https://github.com/moxilang/voxelmap): Python voxel modeling library + 3D rendering.  
+- [**MoxiLang**](https://github.com/moxilang/moxi): LLM-friendly programming language for 3D models.  
 
 ---
 
