@@ -30,14 +30,6 @@ I focus on clean, recursive design that makes workflows forkable, explainable, a
 
 ---
 
-## 📘 Background
-- Ph.D. in **Chemical Engineering** (modeling + experimental methods)  
-- Instructor of **Data Structures & Algorithms** (UTEC)  
-- Instructor of **Programming Tools** (Universidad del Pacífico)  
-- Collaborator on **AI systems** for institutional and scientific forecasting  
-
----
-
 ## 🤝 Connect
 I collaborate on:  
 - **AI & analysis systems** with recursion and explainability  
