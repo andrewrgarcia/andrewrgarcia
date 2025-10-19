@@ -13,7 +13,7 @@ I focus on clean, recursive design that makes workflows forkable, explainable, a
 <p align="center">
   <a href="https://github.com/moxilang"><b>Moxi</b></a> · 
   <a href="https://furchats.vercel.app"><b>FUR</b></a> · 
-  <a href="https://github.com/andrewrgarcia/timeframes"><b>TimeFrames</b></a> · 
+  <a href="https://thetimeframes.vercel.app/"><b>TimeFrames</b></a> · 
   <a href="https://github.com/moxilang/voxelmap"><b>Voxelmap</b></a> · 
   <a href="https://github.com/andrewrgarcia/powerxrd/wiki"><b>PowerXRD</b></a>
 </p>
