@@ -9,12 +9,12 @@ Ph.D. in Chemical Engineering & Computer Scientist — building simulations, AI 
 
 ## 🧠 APV — A New Perfect-Information Strategy Game  
 
-<img src="https://github.com/user-attachments/assets/0730f0b4-6c7d-4cb4-a475-a4153e5e8574" width="140" alt="APV board icon"/>
+<a href="https://apvgame.vercel.app" title="Play APV">
+  <img src="https://github.com/user-attachments/assets/0730f0b4-6c7d-4cb4-a475-a4153e5e8574" width="140" alt="APV board icon"/>
+</a>
 
 A deterministic hex-strategy game — no luck, no captures:  
 **pure positional geometry and containment.**
-
-📌 Play @ [apvgame.vercel.app](https://apvgame.vercel.app/)
 
 ### 🏆 APV Solver Challenge (Open Now)
 
