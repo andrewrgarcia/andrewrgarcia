@@ -3,8 +3,28 @@
 </p>
 
 # Andrew Garcia
-Ph.D. in **Chemical Engineering** and **Computer Scientist** → Builder of **AI systems, programming languages, and scientific tools**.  
-I focus on clean, recursive design that makes workflows forkable, explainable, and human-friendly.
+Ph.D. in Chemical Engineering & Computer Scientist — building simulations, AI systems, and tools that make complex work easier to understand and use.
+
+---
+
+## 🧠 APV — A New Perfect-Information Strategy Game  
+
+<img src="https://github.com/user-attachments/assets/0730f0b4-6c7d-4cb4-a475-a4153e5e8574" width="140" alt="APV board icon"/>
+
+A deterministic hex-strategy game — no luck, no captures:  
+**pure positional geometry and containment.**
+
+📌 Play @ [apvgame.vercel.app](https://apvgame.vercel.app/)
+
+### 🏆 APV Solver Challenge (Open Now)
+
+- 🔹 Build an AI engine that beats the baseline greedy agent  
+- 🔹 Compete for top solver status  
+- 🔹 Best engines may be **deployed live** (ONNX) on the APV play site — with full author credit
+
+📌 Challenge Issue: https://github.com/andrewrgarcia/apv/issues/1  
+
+📌 Simulator & API: https://github.com/andrewrgarcia/apv/blob/main/simulator/README.md
 
 ---
 
