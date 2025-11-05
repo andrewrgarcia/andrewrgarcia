@@ -34,6 +34,7 @@ A deterministic hex-strategy game — no luck, no captures:
   <a href="https://github.com/moxilang"><b>Moxi</b></a> · 
   <a href="https://furchats.vercel.app"><b>FUR</b></a> · 
   <a href="https://thetimeframes.vercel.app/"><b>TimeFrames</b></a> · 
+  <a href="https://github.com/andrewrgarcia/kolmarn/"><b>Kolmarn</b></a> · 
   <a href="https://github.com/moxilang/voxelmap"><b>Voxelmap</b></a> · 
   <a href="https://github.com/andrewrgarcia/powerxrd/wiki"><b>PowerXRD</b></a>
 </p>
