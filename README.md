@@ -59,4 +59,4 @@ I collaborate on:
 
 ---
 
-<sub>🐧 Pengu is my own original creation. He represents my projects across FUR Labs, Moxi, and beyond.</sub>
+<sub>🐧 Blorbo Frostingson is my own original creation. He represents my projects across FUR Labs, Moxi, and beyond.</sub>
