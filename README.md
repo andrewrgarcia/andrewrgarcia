@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Pengu mascot" width="120"/>
+<a href="https://github.com/iambecomeblorbo" title="Blorbo">
+  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Blorbo mascot" width="120"/>
+</a>
 </p>
 
 # Andrew Garcia
