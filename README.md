@@ -44,36 +44,49 @@ Kodomata World includes:
 
 ---
 
-## 🚀 Flagship Open Source
+## 👁️‍🗨️ Externalized Cognition Suite
 
 <p align="center">
-  <a href="https://github.com/moxilang"><b>Moxi</b></a> · 
-  <a href="https://furchats.vercel.app"><b>FUR</b></a> · 
-  <a href="https://thetimeframes.vercel.app/"><b>TimeFrames</b></a> · 
-  <a href="https://github.com/andrewrgarcia/kolmarn/"><b>Kolmarn</b></a> · 
-  <a href="https://github.com/moxilang/voxelmap"><b>Voxelmap</b></a> · 
-  <a href="https://github.com/andrewrgarcia/powerxrd/wiki"><b>PowerXRD</b></a>
+  <strong>
+    Systems for externalizing, persisting, and traversing human/AI reasoning.
+  </strong>
+  <br/>
+  <sub>Thinking, but it doesn’t evaporate.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/moxilang"><b>Moxi</b></a> ·
+  <a href="https://furchats.vercel.app"><b>FUR</b></a> ·
+  <a href="https://crates.io/crates/yggdrasil-cli"><b>Yggdrasil</b></a> ·
+  <a href="https://crates.io/crates/ratatoskr-cli"><b>Ratatoskr</b></a>
 </p>
 
 <p align="center">
   <sub>
-    <b>Moxi</b> — AI-friendly programming language for 3D modeling · 
-    <b>FUR</b> — CLI-based ChatVault for managing and preserving AI conversations · 
-    <b>TimeFrames</b> — Framework for transparent time series validation · 
-    <b>Voxelmap</b> — Python voxel modeling / visualization (marching-cubes ready) · 
-    <b>PowerXRD</b> — Modern Rietveld refinement toolkit
+    <b>Moxi</b> — A shared human–machine programming language for constructing three-dimensional structures as explicit, inspectable reasoning artifacts
+    <b>FUR</b> — Persistent, local-first memory for AI conversations and reasoning traces ·
+    <b>Yggdrasil</b> — Deterministic project flattener and diff engine that turns codebases into AI-ready cognitive codices ·
+    <b>Ratatoskr</b> — Indexing, message-passing, and traversal layer across externalized reasoning artifacts
   </sub>
 </p>
 
 ---
 
 ## 🤝 Connect
-I collaborate on:  
-- **AI & analysis systems** with recursion and explainability  
-- **Scientific/engineering software** with clean, modern design  
-- **Procedural ecosystems and emergent worlds**  
-- **Infra tools** that make workflows forkable, transparent, and a little haunted  
+
+I work with people who want to make hard things **explicit, legible, and durable** — especially when those things are usually invisible.
+
+That includes:
+- Systems that turn messy reasoning into concrete artifacts  
+- Scientific and engineering software that values clarity over cleverness  
+- Procedural worlds and tools that reward exploration, not memorization  
+- Infrastructure that leaves a paper trail and doesn’t gaslight its users  
+
+If you care about building tools that think *with* people instead of around them, we’ll probably get along.
 
 ---
 
-<sub>🐧 Blorbo Frostingson is my own original creation. He represents my projects across FUR Labs, Moxi, and beyond.</sub>
+<sub>
+🐧 Blorbo Frostingson is my own original creation.
+He’s the unofficial mascot of my projects across FUR Labs, Moxi, and whatever I’m building next.
+</sub>
