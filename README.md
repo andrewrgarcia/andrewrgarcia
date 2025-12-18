@@ -1,13 +1,33 @@
+<!-- MASCOT / LOGO -->
 <p align="center">
-<a href="https://github.com/iambecomeblorbo" title="Blorbo">
-  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Blorbo mascot" width="120"/>
-</a>
+  <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Blorbo mascot" width="140"/>
 </p>
 
-# Andrew Garcia
-Ph.D. in Chemical Engineering & Computer Scientist — building simulations, AI systems, and tools that make complex work easier to understand and use.
+<h1 align="center">Andrew Garcia</h1>
+
+<p align="center">
+  <strong>Ph.D. Chemical Engineer · Computer Scientist · Professional Explainer of Hard Things</strong>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/degree-Ph.D.%20(ChE)-6f42c1" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/focus-simulations%20%7C%20AI%20%7C%20systems-blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/code-rust%20%7C%20python%20%7C%20c%2B%2B-orange" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-building%20useful%20things-success" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/vibes-unreasonably%20practical-black" /></a>
+</p>
+
+<p align="center">
+  <strong>
+    I build simulations, AI systems, and developer tools that turn complex,
+    high-dimensional chaos into something humans can actually use.
+  </strong>
+  <br/>
+  <sub>Sometimes that means physics. Sometimes that means machine learning. Usually it means both.</sub>
+</p>
 
 ---
+
 
 ## 🌌 Kodomata World — Emergent Alien Automata  
 
