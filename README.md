@@ -66,7 +66,7 @@ Kodomata World includes:
     <b>Moxi</b> — A shared human–machine programming language for constructing three-dimensional structures as explicit, inspectable reasoning artifacts
     <b>FUR</b> — Persistent, local-first memory for AI conversations and reasoning traces ·
     <b>Yggdrasil</b> — Deterministic project flattener and diff engine that turns codebases into AI-ready cognitive codices ·
-    <b>Ratatoskr</b> — Indexing, message-passing, and traversal layer across externalized reasoning artifacts
+    <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk
   </sub>
 </p>
 
