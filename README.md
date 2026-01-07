@@ -39,10 +39,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/moxilang"><b>Moxi</b></a> ·
   <a href="https://furchats.vercel.app"><b>FUR</b></a> ·
   <a href="https://crates.io/crates/yggdrasil-cli"><b>Yggdrasil</b></a> ·
+  <a href="https://github.com/moxilang"><b>Elaine</b></a> ·
   <a href="https://crates.io/crates/ratatoskr-cli"><b>Ratatoskr</b></a>
+
 </p>
 
 <p align="center">
@@ -50,7 +51,7 @@
     <b>FUR</b> — Persistent, local-first memory for AI conversations and reasoning traces ·
     <b>Yggdrasil</b> — Deterministic project flattener and diff engine that turns codebases into AI-ready cognitive codices ·
     <b>Elaine</b> — An opinionated, local-first reference manager for TeX users. 
-    <!-- <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk -->
+    <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk
   </sub>
 </p>
 
