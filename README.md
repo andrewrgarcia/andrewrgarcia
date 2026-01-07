@@ -28,22 +28,6 @@
 
 ---
 
-
-## 🌌 Kodomata World — Emergent Alien Automata  
-
-A living voxel ecosystem inhabited by automaton creatures exhibiting collective behavior, adaptive wandering, energy dynamics, avoidance, clustering, and other early traces of emergent intelligence (in development).
-
-Kodomata World includes:
-- autonomous voxel creatures with **genomes**, internal state, traits, and behaviors  
-- **swarm-like motion**, collision avoidance, wandering, and exploration  
-- an idyllic pastel alien overland rendered in React-Three-Fiber  
-- spatial hashing, BVH collisions, and real-time simulation loops  
-- a sandbox for **digital life**, **procedural worlds**, and **agent intelligence**
-
-🔗 **Live Preview**: https://kodomata.vercel.app  
-
----
-
 ## 👁️‍🗨️ Externalized Cognition Suite
 
 <p align="center">
@@ -63,12 +47,27 @@ Kodomata World includes:
 
 <p align="center">
   <sub>
-    <b>Moxi</b> — A shared human–machine programming language for constructing three-dimensional structures as explicit, inspectable reasoning artifacts
     <b>FUR</b> — Persistent, local-first memory for AI conversations and reasoning traces ·
     <b>Yggdrasil</b> — Deterministic project flattener and diff engine that turns codebases into AI-ready cognitive codices ·
-    <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk
+    <b>Elaine</b> — An opinionated, local-first reference manager for TeX users. 
+    <!-- <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk -->
   </sub>
 </p>
+
+---
+
+## 🌌 Kodomata World — Emergent Alien Automata  
+
+A living voxel ecosystem inhabited by automaton creatures exhibiting collective behavior, adaptive wandering, energy dynamics, avoidance, clustering, and other early traces of emergent intelligence (in development).
+
+Kodomata World includes:
+- autonomous voxel creatures with **genomes**, internal state, traits, and behaviors  
+- **swarm-like motion**, collision avoidance, wandering, and exploration  
+- an idyllic pastel alien overland rendered in React-Three-Fiber  
+- spatial hashing, BVH collisions, and real-time simulation loops  
+- a sandbox for **digital life**, **procedural worlds**, and **agent intelligence**
+
+🔗 **Live Preview**: https://kodomata.vercel.app  
 
 ---
 
