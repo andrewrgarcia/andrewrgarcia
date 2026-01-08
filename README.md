@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://furchats.vercel.app"><b>FUR</b></a> ·
   <a href="https://crates.io/crates/yggdrasil-cli"><b>Yggdrasil</b></a> ·
-  <a href="https://github.com/elaine-cli"><b>Elaine</b></a> ·
+  <a href="https://github.com/andrewrgarcia/elaine-cli"><b>Elaine</b></a> ·
   <a href="https://crates.io/crates/ratatoskr-cli"><b>Ratatoskr</b></a>
 
 </p>
