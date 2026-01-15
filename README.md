@@ -57,18 +57,21 @@
 
 ---
 
-## 🌌 Kodomata World — Emergent Alien Automata  
+## 🌌 Kodomata — 3D Automata and Emergent Agent Systems
 
-A living voxel ecosystem inhabited by automaton creatures exhibiting collective behavior, adaptive wandering, energy dynamics, avoidance, clustering, and other early traces of emergent intelligence (in development).
+**Kodomata** is a three-dimensional automata-based simulation system for studying decentralized agents, local interaction rules, and emergent structure in continuous space.
 
-Kodomata World includes:
-- autonomous voxel creatures with **genomes**, internal state, traits, and behaviors  
-- **swarm-like motion**, collision avoidance, wandering, and exploration  
-- an idyllic pastel alien overland rendered in React-Three-Fiber  
-- spatial hashing, BVH collisions, and real-time simulation loops  
-- a sandbox for **digital life**, **procedural worlds**, and **agent intelligence**
+It models large populations of autonomous voxel agents with internal state and rule-driven dynamics, producing collective motion, clustering, and self-organized spatial patterns under real-time constraints.
 
-🔗 **Live Preview**: https://kodomata.vercel.app  
+**Key features**
+
+* autonomous 3D automata with internal state and update rules
+* local interactions: neighborhood sensing, collision avoidance, energy dynamics
+* real-time simulation with spatial hashing and BVH acceleration
+
+Designed as a sandbox for **agent-based modeling**, **digital life**, and **emergent systems**.
+
+🔗 **Live Preview**: [https://kodomata.vercel.app](https://kodomata.vercel.app)
 
 ---
 
@@ -87,6 +90,7 @@ If you care about building tools that think *with* people instead of around them
 ---
 
 <sub>
-🐧 Blorbo Frostingson is my own original creation.
-He’s the unofficial mascot of my projects across FUR Labs, Moxi, and whatever I’m building next.
+🐧 Blorbo Frostingson — a persistent totem across my project ecosystem.
+If you see Blorbo, you’re awake.
 </sub>
+
