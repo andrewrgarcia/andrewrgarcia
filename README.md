@@ -42,7 +42,7 @@
   <a href="https://furchats.vercel.app"><b>FUR</b></a> ·
   <a href="https://crates.io/crates/yggdrasil-cli"><b>Yggdrasil</b></a> ·
   <a href="https://github.com/andrewrgarcia/elaine-cli"><b>Elaine</b></a> ·
-  <!-- <a href="https://crates.io/crates/ratatoskr-cli"><b>Ratatoskr</b></a> -->
+  <a href="https://crates.io/crates/membrane-cli"><b>Membrane</b></a>
 
 </p>
 
@@ -51,7 +51,7 @@
     <b>FUR</b> — Persistent, local-first memory for AI conversations and reasoning traces ·
     <b>Yggdrasil</b> — Deterministic project flattener and diff engine that turns codebases into AI-ready cognitive codices ·
     <b>Elaine</b> — An opinionated, local-first reference manager for TeX users. 
-    <!-- <b>Ratatoskr</b> — A trace-first execution system that refuses to run unless every input, reference, and influence is made explicit and written to disk -->
+    <b>Membrane</b> — A minimal, file-based memory system for named things.
   </sub>
 </p>
 
