@@ -6,138 +6,40 @@
 <h1 align="center">Andrew Garcia</h1>
 
 <p align="center">
-  <strong>Computational Scientist · Systems Engineer · Builder of Cognitive Infrastructure</strong>
+  <strong>PhD Engineer · Machine Learning · Rust · Python · C++</strong>
 </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/PhD-Chemical%20Engineering-6f42c1" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/focus-simulation%20%7C%20AI%20systems%20%7C%20developer%20tools-blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/focus-ML%20%7C%20developer%20tools%20%7C%20simulation-blue" /></a>
   <a href="#"><img src="https://img.shields.io/badge/languages-rust%20%7C%20python%20%7C%20c%2B%2B-orange" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/design-deterministic%20%7C%20traceable%20%7C%20human--centered-success" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ethos-unreasonably%20practical-black" /></a>
 </p>
 
-<p align="center">
-  <strong>
-    I design computational systems, simulations, and developer tools that transform
-    high-dimensional complexity into durable, usable infrastructure.
-  </strong>
-  <br/>
-  <sub>Often operating at the boundary of physics, machine learning, and reasoning systems.</sub>
-</p>
+---
+
+ML engineer who builds, ships, and figures things out. I've done forecasting for Peru's Central Bank, taught CS at the university level, and have a paper on high-dimensional variable selection under review. The tools below came out of that work.
 
 ---
 
-> **Designing infrastructure for reasoning-intensive systems.**
+## Tools
+
+| | |
+|---|---|
+| **[Yggdrasil](https://crates.io/crates/yggdrasil-cli)** | Flattens a codebase into a single injectable markdown artifact. Built for real AI workflows. |
+| **[Membrane](https://crates.io/crates/membrane-cli)** | YAML-based knowledge system where each entry carries its own schema. No database required. |
+| **[FUR](https://furchats.vercel.app)** | Conversation control for LLMs — context management, interaction history, traceability. |
+| **[Elaine](https://github.com/andrewrgarcia/elaine-cli)** | Deterministic LaTeX bibliography generator. Built because citation managers kept breaking. |
 
 ---
 
-## Currently Focused On
+## Experiments
 
-- Cognitive infrastructure for AI workflows  
-- Externalized reasoning and persistent memory  
-- CLI-first developer environments  
-- Large-scale simulation and emergent behavior  
-- Systems where software directly shapes decision-making  
-
----
-
-## Externalized Cognition Suite
-
-<p align="center">
-  <strong>Systems for externalizing, persisting, and traversing human–AI reasoning.</strong>
-  <br/>
-  <sub>Thinking — but it doesn’t evaporate.</sub>
-</p>
-
-<p align="center">
-  <a href="https://furchats.vercel.app"><b>FUR</b></a> ·
-  <a href="https://crates.io/crates/yggdrasil-cli"><b>Yggdrasil</b></a> ·
-  <a href="https://github.com/andrewrgarcia/elaine-cli"><b>Elaine</b></a> ·
-  <a href="https://crates.io/crates/membrane-cli"><b>Membrane</b></a>
-</p>
-
-**FUR** — Local-first persistent memory for AI conversations and reasoning traces.  
-**Yggdrasil** — Deterministic project flattener and diff engine that converts codebases into AI-ready cognitive artifacts.  
-**Elaine** — Opinionated reference manager designed for TeX-based research workflows.  
-**Membrane** — Minimal file-based memory system for durable knowledge representation.
-
-Together, these systems explore a foundational question:
-
-> *What if reasoning were treated as infrastructure rather than exhaust?*
+**[Kodomata](https://kodomata.vercel.app)** — real-time 3D automata environment. Simple local rules, complex emergent behavior.  
+**[Wormhole Chess](https://wormholechess.vercel.app)** — non-Euclidean chess. Later used in a [rendering study](https://wormhole-render.vercel.app) comparing hand-engineered vs AI-generated variants.  
+**[The Fractal Prince](https://runawayfromthepain.vercel.app)** — 2D platformer set inside a Sierpiński carpet. Portals take you deeper into the fractal or back out — the geometry never changes, only your scale does.  
+**[On Titan](https://ontitan.vercel.app)** — spatial simulation on Saturn's moon. Structure, scale, constraint.
 
 ---
 
-## Kodomata — Emergent Agent Systems in 3D
-
-**Kodomata** is a real-time automata-based simulation environment for studying decentralized agents, local interaction rules, and emergent structure in continuous space.
-
-It models large populations of autonomous voxel agents with internal state and rule-driven dynamics, producing clustering, collective motion, and self-organized spatial patterns under real-time constraints.
-
-**Core capabilities**
-
-- Autonomous 3D agents with internal state  
-- Local interaction models (neighborhood sensing, avoidance, energy dynamics)  
-- Spatial hashing and BVH acceleration  
-- Architected for agent-based modeling, digital life, and emergent computation  
-
-🔗 **Live Preview:** https://kodomata.vercel.app
-
----
-
-## Applied Engineering
-
-Alongside research-grade systems, I selectively design and deploy production platforms for organizations where software directly influences revenue, operations, or decision velocity.
-
-Recent work includes architecting and launching a commerce platform with integrated payments, inventory flow, and operational tooling — built end-to-end to function as business infrastructure rather than just a website.
-
-I approach applied systems with the same principles as research environments:
-
-- clarity over cleverness  
-- reliability over novelty  
-- leverage over ornament  
-
-Because software is most valuable when it quietly becomes part of how a business breathes.
-
----
-
-## Design Orientation
-
-I focus on building original computational frameworks rather than assembling off-the-shelf stacks.
-
-My systems favor:
-
-- determinism over opacity  
-- traceability over magic  
-- durability over trend  
-- tools that think *with* humans, not around them  
-
-The goal is simple:
-
-> Make hard things explicit.  
-> Make reasoning legible.  
-> Build systems that endure.
-
----
-
-## Connect
-
-I collaborate with researchers, engineers, founders, and technical organizations working on problems that require structural depth rather than surface solutions.
-
-Common intersections include:
-
-- scientific and engineering software  
-- reasoning-aware infrastructure  
-- simulation platforms  
-- procedural and agent-based systems  
-- developer tooling  
-- high-leverage applied platforms  
-
-If you are building something ambitious and need a systems-level partner, we will likely get along.
-
----
-
-<sub>
-🐧 Blorbo Frostingson — a persistent totem across the project ecosystem.  
-If you see Blorbo, you're paying attention.
-</sub>
+<sub>🐧 Blorbo Frostingson — if you see Blorbo, you're paying attention.</sub>
