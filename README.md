@@ -18,7 +18,7 @@
 
 ---
 
-ML engineer who builds, ships, and figures things out. I've done forecasting for Peru's Central Bank, taught CS at the university level, and have a paper on high-dimensional variable selection under review. The tools below came out of that work.
+ML engineer who builds, ships, and figures things out. I've done forecasting for Peru's Central Bank and taught CS at the university level. The tools below came out of that work.
 
 ---
 
