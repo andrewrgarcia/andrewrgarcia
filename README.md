@@ -26,20 +26,12 @@ ML engineer who builds, ships, and figures things out. I've done forecasting for
 
 | | |
 |---|---|
+| **[FUR](https://furchats.vercel.app)** | Conversation control for LLMs — context management, interaction history, traceability. |
 | **[Yggdrasil](https://crates.io/crates/yggdrasil-cli)** | Flattens a codebase into a single injectable markdown artifact. Built for real AI workflows. |
 | **[Membrane](https://crates.io/crates/membrane-cli)** | YAML-based knowledge system where each entry carries its own schema. No database required. |
-| **[FUR](https://furchats.vercel.app)** | Conversation control for LLMs — context management, interaction history, traceability. |
+| **[AESus](https://github.com/andrewrgarcia/aesus)** | AES-256-GCM encryption with Argon2id-derived keys and Diceware passphrases. Rust CLI + library. |
 | **[Elaine](https://github.com/andrewrgarcia/elaine-cli)** | Deterministic LaTeX bibliography generator. Built because citation managers kept breaking. |
-
 ---
 
-## Experiments
-
-**[Kodomata](https://kodomata.vercel.app)** — real-time 3D automata environment. Simple local rules, complex emergent behavior.  
-**[Wormhole Chess](https://wormholechess.vercel.app)** — non-Euclidean chess. Later used in a [rendering study](https://wormhole-render.vercel.app) comparing hand-engineered vs AI-generated variants.  
-**[The Fractal Prince](https://runawayfromthepain.vercel.app)** — 2D platformer set inside a Sierpiński carpet. Portals take you deeper into the fractal or back out — the geometry never changes, only your scale does.  
-**[On Titan](https://ontitan.vercel.app)** — spatial simulation on Saturn's moon. Structure, scale, constraint.
-
----
 
 <sub>🐧 Blorbo Frostingson — if you see Blorbo, you're paying attention.</sub>
