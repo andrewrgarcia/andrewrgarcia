@@ -1,6 +1,8 @@
 <!-- MASCOT / LOGO -->
 <p align="center">
+  <a href="https://www.kaggle.com/datasets/drandrewgarcia/fractal-hunter-extreme-distortion">
   <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Blorbo mascot" width="140"/>
+  </a>
 </p>
 
 <h1 align="center">Andrew Garcia</h1>
