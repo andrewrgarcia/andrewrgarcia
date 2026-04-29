@@ -1,6 +1,6 @@
 <!-- MASCOT / LOGO -->
 <p align="center">
-  <a href="https://www.kaggle.com/datasets/drandrewgarcia/fractal-hunter-extreme-distortion">
+  <a href="https://github.com/andrewrgarcia/fractal-hunter-dataset">
   <img src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba" alt="Blorbo mascot" width="140"/>
   </a>
 </p>
