@@ -20,7 +20,7 @@
 
 ---
 
-I build and ship production software — full-stack systems and the AI infrastructure underneath them — and before that, forecasting for Peru's Central Bank and teaching CS at the university level. The tools below aren't side projects collecting dust; they're things I built because the existing option broke under real use, and then kept maintaining because people other than me started depending on them.
+I build and ship production software — full-stack systems and the infrastructure underneath them — and before that, forecasting for Peru's Central Bank and teaching CS at the university level. The tools below aren't side projects collecting dust; they're things I built because the existing option broke under real use, and then kept maintaining because people other than me started depending on them.
 
 ## Philosophy
 
