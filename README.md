@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h1 align="center">Andrew Garcia, Ph.D.</h1>
+<h1 align="center">Andrew R. Garcia, Ph.D.</h1>
 
 <p align="center">
   <strong>Building programming systems for humans and AI.</strong>
