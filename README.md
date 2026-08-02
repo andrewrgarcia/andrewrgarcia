@@ -136,7 +136,7 @@ Nearly everything here began because an existing tool failed under real use.
 ## Featured Systems
 
 <details>
-<summary><strong>⚖️ Viceroy — deterministic edits for coding agents</strong></summary>
+<summary><strong>🧑🏻 Viceroy — deterministic edits for coding agents</strong></summary>
 
 <br>
 
@@ -213,7 +213,7 @@ Think of it as compiling software into knowledge an AI can carry around.
 </details>
 
 <details open>
-<summary><strong>🧊 Moxi — an AI-native language for building 3D worlds</strong></summary>
+<summary><strong>🥡 Moxi — an AI-native language for building 3D worlds</strong></summary>
 
 <br>
 
