@@ -30,7 +30,7 @@
   &nbsp;&nbsp;
   <img height="48" alt="FUR" src="https://github.com/user-attachments/assets/6135887d-2a93-4170-ac9a-c68687f15a2f">
   &nbsp;&nbsp;
-  <img height="48" alt="Yggdrasil" src="https://github.com/user-attachments/assets/d822648c-2d2b-41ad-a3ad-381bed63469a">
+  <img height="48" alt="Yggdrasil" alt="ygg-new" src="https://github.com/user-attachments/assets/53890219-5f3e-4edd-87a0-6c33bce7e97c" />
   &nbsp;&nbsp;
   <img height="48" alt="Moxi" src="https://github.com/user-attachments/assets/39b842ac-8844-46ba-8f01-3f5213cabf6d">
   &nbsp;&nbsp;
