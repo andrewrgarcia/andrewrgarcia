@@ -39,13 +39,13 @@
   <img height="48" alt="DeckMaster" src="https://github.com/user-attachments/assets/f2dc9f99-22e0-4c74-99aa-8746d8789482">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/andrewrgarcia/viceroy"><strong>Viceroy</strong></a> ·
   <a href="https://crates.io/crates/fur-cli"><strong>FUR</strong></a> ·
   <a href="https://crates.io/crates/yggdrasil-cli"><strong>Yggdrasil</strong></a> ·
   <a href="https://moxi-next.vercel.app/"><strong>Moxi</strong></a> ·
   <a href="https://deckmaster-editor.vercel.app"><strong>DeckMaster</strong></a>
-</p>
+</p> -->
 
 <p align="center">
   Coding agents · Conversation records · Codebase context · 3D worlds · Presentations
