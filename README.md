@@ -27,7 +27,7 @@
 
 ## Systems
 
-<p align="center">
+<!-- <p align="center">
   <img height="48" alt="Viceroy" src="https://github.com/user-attachments/assets/b7d0e7e0-664a-4a39-81b1-9a674e3a3537">
   &nbsp;&nbsp;
   <img height="48" alt="FUR" src="https://github.com/user-attachments/assets/6135887d-2a93-4170-ac9a-c68687f15a2f">
@@ -37,7 +37,7 @@
   <img height="48" alt="Moxi" src="https://github.com/user-attachments/assets/39b842ac-8844-46ba-8f01-3f5213cabf6d">
   &nbsp;&nbsp;
   <img height="48" alt="DeckMaster" src="https://github.com/user-attachments/assets/f2dc9f99-22e0-4c74-99aa-8746d8789482">
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/andrewrgarcia/viceroy"><strong>Viceroy</strong></a> ·
