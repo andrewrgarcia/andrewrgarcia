@@ -2,8 +2,8 @@
   <a href="https://andrewcomputing.com">
     <img
       src="https://github.com/user-attachments/assets/c0c3e7e8-30b9-4fe7-95f8-867ea6746aba"
-      width="150"
-      alt="Blorbo mascot"
+      width="120"
+      alt="Blorbo"
     />
   </a>
 </p>
@@ -11,12 +11,14 @@
 <h1 align="center">Andrew R. Garcia, Ph.D.</h1>
 
 <p align="center">
-  <strong>Building programming systems for humans and AI.</strong><br>
-  Rust · Python · AI Infrastructure · Programming Languages · Scientific Computing
+  <strong>I work on how systems get represented — so people and machines can reason about them.</strong><br>
+  Programming languages · AI infrastructure · Scientific computing
 </p>
 
 <p align="center">
   <a href="https://andrewcomputing.com"><strong>Website</strong></a>
+  ·
+  <a href="https://andrewcomputing.com/research"><strong>Research</strong></a>
   ·
   <a href="https://github.com/andrewrgarcia?tab=repositories"><strong>Repositories</strong></a>
 </p>
@@ -30,11 +32,11 @@
   &nbsp;&nbsp;
   <img height="48" alt="FUR" src="https://github.com/user-attachments/assets/6135887d-2a93-4170-ac9a-c68687f15a2f">
   &nbsp;&nbsp;
-  <img height="48" alt="Yggdrasil" alt="ygg-new" src="https://github.com/user-attachments/assets/53890219-5f3e-4edd-87a0-6c33bce7e97c" />
+  <img height="48" alt="Yggdrasil" src="https://github.com/user-attachments/assets/53890219-5f3e-4edd-87a0-6c33bce7e97c">
   &nbsp;&nbsp;
   <img height="48" alt="Moxi" src="https://github.com/user-attachments/assets/39b842ac-8844-46ba-8f01-3f5213cabf6d">
   &nbsp;&nbsp;
-  <img height="48" alt="Deckmaster" src="https://github.com/user-attachments/assets/f2dc9f99-22e0-4c74-99aa-8746d8789482">
+  <img height="48" alt="DeckMaster" src="https://github.com/user-attachments/assets/f2dc9f99-22e0-4c74-99aa-8746d8789482">
 </p>
 
 <p align="center">
@@ -42,75 +44,52 @@
   <a href="https://crates.io/crates/fur-cli"><strong>FUR</strong></a> ·
   <a href="https://crates.io/crates/yggdrasil-cli"><strong>Yggdrasil</strong></a> ·
   <a href="https://moxi-next.vercel.app/"><strong>Moxi</strong></a> ·
-  <a href="https://deckmaster-editor.vercel.app"><strong>Deckmaster</strong></a>
+  <a href="https://deckmaster-editor.vercel.app"><strong>DeckMaster</strong></a>
 </p>
 
 <p align="center">
-  Coding agents · Conversation control · Codebase context · 3D worlds · Presentations
+  Coding agents · Conversation records · Codebase context · 3D worlds · Presentations
 </p>
 
 <details>
-<summary><strong>Projects</strong></summary>
+<summary><strong>Systems in detail</strong></summary>
 
 ### Viceroy
-Deterministic, directly applicable edits for coding agents.
-
+Every change arrives as a whole file or an exact, verbatim swap, applied under compare-and-swap. An edit lands where it was aimed or fails closed.
 **[GitHub](https://github.com/andrewrgarcia/viceroy)**
 
 ### FUR
-Structured conversation control and persistent history for long-running LLM workflows.
-
-**[crates.io](https://crates.io/crates/fur-cli)**
+Durable, auditable records of work done with language models. Local-first, encrypted, open export format, deployable inside a private network.
+**[crates.io](https://crates.io/crates/fur-cli)** · **[About](https://andrewcomputing.com/fur)**
 
 ### Yggdrasil
-Compiles entire codebases into structured Markdown context for AI workflows.
-
-**[crates.io](https://crates.io/crates/yggdrasil-cli)**
+Compiles any subset of a codebase into a single deterministic, model-readable codex. Recursive import resolution, token-bounded sharding, cross-file diff.
+**[crates.io](https://crates.io/crates/yggdrasil-cli)** · DOI [10.5281/zenodo.15033378](https://doi.org/10.5281/zenodo.15033378)
 
 ### Moxi
-An AI-native programming language for describing and compiling 3D worlds.
+A semantic spatial language and deterministic compiler. Entities, materials and relations resolve into voxel geometry — legible to humans and to models, which is the point.
+**[Sandbox](https://moxi-next.vercel.app/)** · **[GitHub](https://github.com/moxilang/moxi)**
 
-**[Sandbox](https://moxi-next.vercel.app/)**
-
-### Deckmaster
-Presentations as programmable, version-controlled documents.
-
-**[Editor](https://deckmaster-editor.vercel.app)**
+### DeckMaster
+A canonical presentation model that moves between PPTX, JSON, a CLI and agents, without the zipped file ever being the source of truth.
+**[Editor](https://deckmaster-editor.vercel.app)** · **[GitHub](https://github.com/Master-Suite/deckmaster)**
 
 </details>
 
 <details>
-<summary><strong>About</strong></summary>
+<summary><strong>Research</strong></summary>
 
-I build programming languages, AI infrastructure, developer tools, and scientific software around one problem:
+**MacroGym** — the first open-source controlled benchmark for counterfactual evaluation in macroeconomics. Synthetic economies with known nonlinear dynamics, from which exact ground-truth counterfactuals are computed by re-simulation.
+**[Repository](https://github.com/andrewrgarcia/macrogym)**
 
-> **Making complex systems understandable to both humans and AI.**
+Working papers with the Banco Central de Reserva del Perú: neural architecture search for inflation forecasting (DT 009-2024), Kolmogorov–Arnold networks and the Phillips curve (DT 025-2025), metadata-guided variable selection (under review, *Applied Soft Computing*).
 
-Previously: economic forecasting for Peru's Central Reserve Bank and university-level computer science teaching.
-
-</details>
-
-<details>
-<summary><strong>Stack & Interests</strong></summary>
-
-**Areas:** AI infrastructure · Programming languages · Coding agents · Knowledge representation · Scientific computing · Developer tooling
-
-**Stack:** Rust · Python · TypeScript · C++ · SQLite · PostgreSQL · PyTorch · CUDA · WebGPU · Docker · Linux
-
-</details>
-
-<details>
-<summary><strong>Engineering Philosophy</strong></summary>
-
-I build systems that are deterministic, observable, reproducible, composable, and useful after the demonstration ends.
-
-Software should survive contact with reality.
+Ph.D., University of Florida — kinetic Monte Carlo modeling of crystal growth. Co-inventor, US Patent US20210178024A1.
 
 </details>
 
 ---
 
 <p align="center">
-  <strong><a href="https://andrewcomputing.com">andrewcomputing.com</a></strong><br>
-  <sub>🐧 Blorbo believes software should survive contact with reality.</sub>
+  <a href="https://andrewcomputing.com"><strong>andrewcomputing.com</strong></a>
 </p>
